@@ -3,10 +3,10 @@
 A Python script to send bulk or mass emails to email list in an excel file and content from text file.
 
 # Modules Used
-1]. pandas
-2]. smtp
-3]. os
-4]. re
+1. pandas
+2. smtp
+3. os
+4. re
 
 # How to run
 **1.** Fork [this](https://github.com/Tejas1510/Hacking-Scripts/) repository.
