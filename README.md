@@ -20,10 +20,10 @@ cd Hacking-Scripts/python/Bulk-Email-Sender
 python sendmail.py
 ```
 # 
-  Put all the recipients name in email.xlsx.
-  And email content in msg.txt.
+  1. Put all the recipients name in email.xlsx.
+  2. And email content in msg.txt.
 # working
-[](https://github.com/pritamp17/Email-sender/blob/main/examples/1.png)
-[](https://github.com/pritamp17/Email-sender/blob/main/examples/res-1.png)
-[](https://github.com/pritamp17/Email-sender/blob/main/examples/res-2.png)
+![](https://github.com/pritamp17/Email-sender/blob/main/examples/1.png)
+![](https://github.com/pritamp17/Email-sender/blob/main/examples/res-1.png)
+![](https://github.com/pritamp17/Email-sender/blob/main/examples/res-2.png)
 
