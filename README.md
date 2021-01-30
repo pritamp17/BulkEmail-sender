@@ -23,7 +23,7 @@ python sendmail.py
   Put all the recipients name in email.xlsx.
   And email content in msg.txt.
 # working
-[1.](https://github.com/pritamp17/Email-sender/blob/main/examples/1.png?raw=true)
-[2.](https://github.com/pritamp17/Email-sender/blob/main/examples/res-1.png?raw=true)
-[3.](https://github.com/pritamp17/Email-sender/blob/main/examples/res-2.png?raw=true)
+[](https://github.com/pritamp17/Email-sender/blob/main/examples/1.png?raw=true)
+[](https://github.com/pritamp17/Email-sender/blob/main/examples/res-1.png?raw=true)
+[](https://github.com/pritamp17/Email-sender/blob/main/examples/res-2.png?raw=true)
 
