@@ -31,6 +31,7 @@ python sendmail.py
 ![](https://github.com/pritamp17/Email-sender/blob/main/examples/1.png)
 ![](https://github.com/pritamp17/Email-sender/blob/main/examples/res-1.png)
 ![](https://github.com/pritamp17/Email-sender/blob/main/examples/res-2.png)
+
 # Handling errors
 ![](https://github.com/pritamp17/Email-sender/blob/main/examples/handling-errors.png)
 
